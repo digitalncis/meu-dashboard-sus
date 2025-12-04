@@ -1,0 +1,4 @@
+streamlit
+pandas
+plotly
+openpyxl  # Útil se você planeja ler arquivos .xlsx
